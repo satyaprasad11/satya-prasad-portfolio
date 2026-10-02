@@ -120,14 +120,14 @@ A responsive weather application providing weather information through API integ
 
 ### Features
 
-- Live weather updates
+- Live weather update
 - Weather forecasts
 - Weather API integration
 - Interactive maps
 - Air-quality information
 - AI-based weather insights
 - Responsive design
-
+- 
 ### Technologies
 
 ```text
